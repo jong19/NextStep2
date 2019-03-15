@@ -1,0 +1,10 @@
+#Wed Jul 19 18:40:08 CST 2017
+user_count=133
+path_chromeDriver=D\:\\NINZO\\Selenium__Webdriver\\ChromeDriver\\2.28\\chromedriver.exe
+path_repository=D\:\\NINZO\\RC_automation_tests2\\NextStep2\\files\\Repo.property
+path_excel=D\:\\NINZO\\RC_automation_tests2\\NextStep2\\files\\user_credits.xlsx
+email_suffix=@gmail.com
+app_url=http\://thenextstepforme.ripecustomdesign.com/
+path_extentReport=D\:\\NINZO\\RC_automation_tests2\\NextStep2\\files\\nextstep_reports.html
+gmail_url=gmail.com
+user_prefix=qatester
